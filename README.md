@@ -1,6 +1,8 @@
 ### Hi there! I'm [popl1n](https://popl1n.github.io) 👋
 I'm a passionate **indie developer** and i love discover new things everyday.
 
+*My username is pronounced pop-lin /päplən/ not pople-in or pople-one-in x)*
+
 - 📱 **Platforms:** Android, Web, Windows, Linux, Minecraft.
  - 🖱️ **Languages:** C#, C++, Java, HTML.
  - 🗣️ **I speak:** English, French (natively)

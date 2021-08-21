@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm [popl1n](popl1n.github.io) 👋
+I'm a passionate **indie developer** and i love discover new things everyday.
+
+- 📱 **Platforms:** Android, Web, Windows, Linux, Minecraft.
+ - 🖱️ **Languages:** C#, C++, Java, HTML.
+ - 🗣️ **I speak:** English, French (natively)
+ 
+ I'm using **Unity** for all of my game projects.
+ My readme and my github are a bit empty right now, but one day they'll be updated :)
 
 <!--
 **popl1n/popl1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
